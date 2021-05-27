@@ -62,8 +62,12 @@
 ~~~~~~~~
 
 -  上海市大学生工程训练综合能力竞赛（第八届）2018.12
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527124934133.png
+	:width: 500
 
 -  上海市大学生计算机应用能力大赛（第十届）2018.3
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527130323566.png
+	:width: 500
 
 -  第十二届“挑战杯”上海市大学生创业计划竞赛 金奖 2020.07
 
@@ -87,16 +91,24 @@
 ~~~~~~~~~~
 
 -  西安某铝合金自由曲面网壳雨篷结构 ——辅助参与深化设计 2020.5
+.. image::  /img/image-20210527141135569.png
+	:width: 500
 
 -  洛阳奥体中心铝合金网壳方案阶段深化设计 ——方案阶段设计，与实际项目不同
    2021.02
+.. image::  /img/image-20210527143303654.png
+	:width: 500
 
 -  某科技馆铝合金网壳建模 ——绘制三维模型 2021.03
+.. image::  /img/image-20210527143931847.png
+	:width: 500
 
 钢结构项目
 ~~~~~~~~~~
 
 -  滴水湖某人行桥关键铸钢节点足尺实验
+.. image::  /img/image-20210527142511407.png
+	:width: 500
 
 -  
 
@@ -107,10 +119,12 @@
 ~~~~~~~~~~
 
 -  钢框架结构 框架部分深化设计模块
+.. image::  /img/image-20210527142511407.png
+	:width: 500
 
 -  脊椎三维参数化模型 L1 ~ L5 不同弯曲角度
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527202420043.png
+.. image::  /img/image-20210527202420043.png
 	:width: 500
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/yaozhui.gif
+.. image::  /img/yaozhui.gif
 	:width: 500
 -  
