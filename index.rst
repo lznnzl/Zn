@@ -26,36 +26,39 @@
 ~~~~~~~~~~
 
 -  美国ASCE土木工程竞赛（中太平洋赛区）-混凝土轻舟 2019.04
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003524.png
-    :width: 500
+.. image::  /img/20210527003524.png
+	:width: 500
 
 -  美国ASCE土木工程竞赛（总决赛）-混凝土轻舟 2019.06
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003745.png
-    :height: 100
-    :width: 200
-    :scale: 50
+.. image::  /img/20210527003745.png
+	:width: 500
+
 结构竞赛
 ~~~~~~~~
 
 -  上海市大学生结构设计竞赛（第三届）特等奖 2019.07
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003326.png
+.. image::  /img/20210527003326.png
 	:width: 500
 
 -  同济大学大学生结构设计与模型制作竞赛（第二十届） 特等奖 2019.05
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527002629.jpg
+.. image::  /img/20210527002629.jpg
 	:width: 500
 
 -  同济大学国际建造节 三等奖 2017
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003006.png
+.. image::  /img/20210527003006.png
 	:width: 500
 
 -  亚洲地区校际结构设计邀请赛（第十届） 三等奖 2018.06
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527123154000.png
+.. image::  /img/image-20210527123154000.png
 	:width: 500
 
 -  全国大学生结构设计竞赛（第十二届）协助备赛 2018.11
+.. image::  /img/image-20210527140826401.png
+	:width: 500
 
 -  全国大学生结构设计竞赛（第十三届）三等奖 2019.10
+.. image::  /img/image-20210527125126041.png
+	:width: 500
 
 -  同济大学应用力学创新竞赛（第八届） 一等奖 2018.04
 
@@ -63,11 +66,11 @@
 ~~~~~~~~
 
 -  上海市大学生工程训练综合能力竞赛（第八届）2018.12
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527124934133.png
+.. image::  /img/
 	:width: 500
 
 -  上海市大学生计算机应用能力大赛（第十届）2018.3
-.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527130323566.png
+.. image::  /img/
 	:width: 500
 
 -  第十二届“挑战杯”上海市大学生创业计划竞赛 金奖 2020.07
@@ -111,7 +114,6 @@
 .. image::  /img/image-20210527142511407.png
 	:width: 500
 
--  
 
 研究方向
 --------
@@ -128,4 +130,3 @@
 	:width: 500
 .. image::  /img/yaozhui.gif
 	:width: 500
--  
