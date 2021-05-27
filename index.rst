@@ -66,11 +66,11 @@
 ~~~~~~~~
 
 -  上海市大学生工程训练综合能力竞赛（第八届）2018.12
-.. image::  /img/
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527124934133.png
 	:width: 500
 
 -  上海市大学生计算机应用能力大赛（第十届）2018.3
-.. image::  /img/
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527130323566.png
 	:width: 500
 
 -  第十二届“挑战杯”上海市大学生创业计划竞赛 金奖 2020.07
