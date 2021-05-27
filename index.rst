@@ -31,8 +31,9 @@
 
 -  美国ASCE土木工程竞赛（总决赛）-混凝土轻舟 2019.06
 .. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003745.png
-	:width: 500
-
+    :height: 100
+    :width: 200
+    :scale: 50
 结构竞赛
 ~~~~~~~~
 
