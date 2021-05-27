@@ -26,20 +26,31 @@
 ~~~~~~~~~~
 
 -  美国ASCE土木工程竞赛（中太平洋赛区）-混凝土轻舟 2019.04
-.. image:: https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003524.png
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003524.png
+	:width: 500
 
 -  美国ASCE土木工程竞赛（总决赛）-混凝土轻舟 2019.06
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003745.png
+	:width: 500
 
 结构竞赛
 ~~~~~~~~
 
 -  上海市大学生结构设计竞赛（第三届）特等奖 2019.07
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003326.png
+	:width: 500
 
 -  同济大学大学生结构设计与模型制作竞赛（第二十届） 特等奖 2019.05
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527002629.jpg
+	:width: 500
 
 -  同济大学国际建造节 三等奖 2017
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/20210527003006.png
+	:width: 500
 
 -  亚洲地区校际结构设计邀请赛（第十届） 三等奖 2018.06
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527123154000.png
+	:width: 500
 
 -  全国大学生结构设计竞赛（第十二届）协助备赛 2018.11
 
@@ -98,5 +109,8 @@
 -  钢框架结构 框架部分深化设计模块
 
 -  脊椎三维参数化模型 L1 ~ L5 不同弯曲角度
-
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/image-20210527202420043.png
+	:width: 500
+.. image::  https://img-1304551441.cos.ap-shanghai.myqcloud.com/yaozhui.gif
+	:width: 500
 -  
